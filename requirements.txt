@@ -1,0 +1,5 @@
+pyzipper
+multiprocessing
+os
+time
+pyfiglet
