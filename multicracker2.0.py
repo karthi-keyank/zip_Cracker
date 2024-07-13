@@ -8,7 +8,7 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 def display_banner():
-    banner = pyfiglet.figlet_format("CRACKER")
+    banner = pyfiglet.figlet_format("ZIPOCKER")
     author = "by karthi"
 
     print(Fore.GREEN + banner)
