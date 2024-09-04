@@ -1,5 +1,5 @@
-# zipocker
-Zipocker is one of the zip password cracking tool,its used to bruteforce attack on zip files and found forgets passwords(PIN only),its take several times/days/hours
+# zip_cracker
+Zip Cracker is one of the zip password cracking tool,its used to bruteforce attack on zip files and found forgets passwords(PIN only),its take several times/days/hours
 # ZipCracker
 zipCracker general password cracking tool,its only cracking PIN type password also its take more times to take cracking,so does not have any errors 
 # MultiCracker2.0
