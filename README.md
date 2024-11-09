@@ -1,12 +1,8 @@
 # zip_cracker
-Zip Cracker is one of the zip password cracking tool,its used to bruteforce attack on zip files and found forgets passwords(PIN only),its take several times/days/hours
-# ZipCracker
-zipCracker general password cracking tool,its only cracking PIN type password also its take more times to take cracking,so does not have any errors 
-# MultiCracker2.0
-it was advanced cracking tool ,very fast and powerful,you can set start range and end range for cracking faster
+### Zip File Password Cracker Using Multiprocessing
 
-# multicracker3.0
-ultra faster cracking tool
+This Python script attempts to crack the password of an encrypted zip file using a brute-force approach, leveraging the power of multiprocessing to enhance performance
+
 # Installation 
 ```
 git clone https://github.com/Karthi02116K/zipocker.git
